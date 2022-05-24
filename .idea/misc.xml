@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/compose-model-1652810137297.xml" value="0.75" />
+        <entry key="../../../../layout/compose-model-1653159915820.xml" value="0.22" />
+        <entry key="../../../../layout/compose-model-1653160028578.xml" value="0.33" />
+        <entry key="app/src/main/res/drawable-v24/account_circle_full48px.xml" value="0.129" />
+        <entry key="app/src/main/res/drawable-v24/analytics48px.xml" value="0.129" />
+        <entry key="app/src/main/res/drawable-v24/analytics_filled_48px.xml" value="0.129" />
+        <entry key="app/src/main/res/drawable-v24/android_contacts48px.xml" value="0.129" />
+        <entry key="app/src/main/res/drawable-v24/credit_card48px.xml" value="0.129" />
+        <entry key="app/src/main/res/drawable-v24/credit_card_filled_48px.xml" value="0.129" />
+        <entry key="app/src/main/res/drawable-v24/download48px.xml" value="0.129" />
+        <entry key="app/src/main/res/drawable-v24/face_id_48px.xml" value="0.129" />
+        <entry key="app/src/main/res/drawable-v24/file_download48px.xml" value="0.129" />
+        <entry key="app/src/main/res/drawable-v24/file_upload48px.xml" value="0.2375" />
+        <entry key="app/src/main/res/drawable-v24/help48px.xml" value="0.129" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.115" />
+        <entry key="app/src/main/res/drawable-v24/language48px.xml" value="0.129" />
+        <entry key="app/src/main/res/drawable-v24/lock48px.xml" value="0.129" />
+        <entry key="app/src/main/res/drawable-v24/lock_open48px.xml" value="0.129" />
+        <entry key="app/src/main/res/drawable-v24/notifications48px.xml" value="0.129" />
+        <entry key="app/src/main/res/drawable-v24/send48px.xml" value="0.129" />
+        <entry key="app/src/main/res/drawable-v24/wallet48px.xml" value="0.129" />
+        <entry key="app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.129" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

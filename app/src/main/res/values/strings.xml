@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TEST(ComposeMaterial3)</string>
+    <string name="title_activity_sign_in">SignInActivity</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="title_activity_main_menu">MainMenuActivity</string>
+    <string name="title_activity_send_money">SendMoneyActivity</string>
+</resources>
